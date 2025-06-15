@@ -65,7 +65,7 @@ export default function Footer() {
   <p className="text-gray-400">
 made with <span className="text-red-500 ">&hearts;</span> by {''}
     <Link
-  href="https://nihal-khan.vercel.app"
+  href="https://nihalkhanghauri.vercel.app/"
   target="_blank"
   rel="noopener noreferrer"
               // className="text-black font-bold font-serif relative inline-block hover:text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-600 transition-all duration-300 before:absolute before:inset-0 before:bg-gradient-to-r before:from-transparent before:to-blue-400 before:z-[-1] before:transition-transform before:duration-300 before:origin-left before:scale-x-0 hover:before:scale-x-100
@@ -73,7 +73,7 @@ made with <span className="text-red-500 ">&hearts;</span> by {''}
                className="text-white font-bold font-serif relative inline-block hover:text-black bg-clip-text  transition-all duration-300 before:absolute before:inset-0 before:bg-blue-100 before:from-transparent before:to-transparent before:z-[-1] before:transition-transform before:duration-300 before:origin-left before:scale-x-0 hover:before:scale-x-100 hover:translate-x-2 shadow-lg"
 
 >
-  Nihal Khan Ghouri
+  Nihal Khan Ghauri
 </Link>
 
   </p>
